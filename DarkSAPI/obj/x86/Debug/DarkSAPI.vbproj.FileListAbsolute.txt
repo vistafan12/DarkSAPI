@@ -17,3 +17,4 @@ C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.vbprojResol
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Form1.resources
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Resources.resources
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.vbproj.GenerateResource.Cache
+C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Form2.resources
