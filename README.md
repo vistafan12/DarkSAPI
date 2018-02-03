@@ -18,8 +18,6 @@ DarkSAPI created in February 2017 (still year ago), and is very lite speech synt
 <b>03 Feb 2018</b> - Add Polish version for 1.1<br>
 <br>
 <b>Download:</b><br>
-1.1 ENG - http://www.mediafire.com/file/fxzso3367eyljfg/DarkSAPI.exe<br>
-1.1 PL - http://www.mediafire.com/file/gk344yyq3son1dw/DarkSAPI_PL.exe<br>
-1.3 Rewrited - http://www.mediafire.com/file/x2411wi3yv1t6hc/DarkSAPI_1.3.exe<br>
+Check releases tab.
 <br>
-(C) 2018<br>
+(C) 2018 Contributors<br>
