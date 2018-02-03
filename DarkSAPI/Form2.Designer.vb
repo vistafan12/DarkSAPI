@@ -33,39 +33,40 @@ Partial Class Form2
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI Emoji", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(66, 9)
+        Me.Label1.Location = New System.Drawing.Point(41, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(150, 45)
+        Me.Label1.Size = New System.Drawing.Size(199, 43)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "DarkSAPI"
+        Me.Label1.Text = "DarkSAPI 1.3"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(41, 54)
+        Me.Label2.Location = New System.Drawing.Point(35, 52)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(195, 13)
+        Me.Label2.Size = New System.Drawing.Size(218, 26)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "(C) 2017 kuba0303, All Right Reserved."
+        Me.Label2.Text = "                       Rewrited Edition" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "© 2017-2018 kuba0303, All Right Reserved" &
+    "."
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(7, 94)
+        Me.Label3.Location = New System.Drawing.Point(20, 94)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(274, 13)
+        Me.Label3.Size = New System.Drawing.Size(233, 13)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "GNU GPL License, Made in Visual Studio Ultimate 2010."
+        Me.Label3.Text = "GNU GPL License, Made in Visual Studio 2017."
         '
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(84, 109)
+        Me.LinkLabel1.Location = New System.Drawing.Point(58, 107)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(115, 13)
+        Me.LinkLabel1.Size = New System.Drawing.Size(157, 13)
         Me.LinkLabel1.TabIndex = 3
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "Website: kuba0303.ga"
+        Me.LinkLabel1.Text = "Website: github.com/kuba0303"
         '
         'Form2
         '
@@ -76,10 +77,12 @@ Partial Class Form2
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "Form2"
+        Me.ShowInTaskbar = False
         Me.Text = "Info"
         Me.ResumeLayout(False)
         Me.PerformLayout()

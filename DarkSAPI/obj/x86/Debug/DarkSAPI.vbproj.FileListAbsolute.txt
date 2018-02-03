@@ -18,3 +18,15 @@ C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Form1.resou
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Resources.resources
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.vbproj.GenerateResource.Cache
 C:\Users\vistafan12\Desktop\DarkSAPI\DarkSAPI\obj\x86\Debug\DarkSAPI.Form2.resources
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\bin\Debug\DarkSAPI.exe
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\bin\Debug\DarkSAPI.pdb
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\bin\Debug\DarkSAPI.xml
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.Form1.resources
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.Form2.resources
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.Resources.resources
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.vbproj.GenerateResource.Cache
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.exe
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.xml
+C:\Users\Acer\Downloads\DarkSAPI-master\DarkSAPI\obj\x86\Debug\DarkSAPI.pdb

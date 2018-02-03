@@ -32,42 +32,46 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(1, -1)
+        Me.TextBox1.Location = New System.Drawing.Point(-1, -1)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(785, 253)
         Me.TextBox1.TabIndex = 0
-        Me.TextBox1.Text = "Hi, I'm DarkSAPI. Enter something here! As already write, enter SPEECH!"
+        Me.TextBox1.Text = "Hi, This is DarkSAPI Rewrited. Enter something here! When you finish, click SPEEC" &
+    "H!"
         '
         'Button2
         '
+        Me.Button2.BackColor = System.Drawing.SystemColors.Desktop
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
         Me.Button2.Location = New System.Drawing.Point(12, 258)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(122, 46)
         Me.Button2.TabIndex = 2
         Me.Button2.Text = "SPEECH"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
         '
+        Me.Button3.BackColor = System.Drawing.SystemColors.Desktop
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
         Me.Button3.Location = New System.Drawing.Point(140, 258)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(122, 46)
         Me.Button3.TabIndex = 3
         Me.Button3.Text = "About"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.UseVisualStyleBackColor = False
         '
         'Button4
         '
+        Me.Button4.BackColor = System.Drawing.SystemColors.Desktop
         Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
         Me.Button4.Location = New System.Drawing.Point(650, 258)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(122, 46)
         Me.Button4.TabIndex = 4
         Me.Button4.Text = "Exit"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.Button4.UseVisualStyleBackColor = False
         '
         'Form1
         '
@@ -79,11 +83,13 @@ Partial Class Form1
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.TextBox1)
+        Me.ForeColor = System.Drawing.Color.Lime
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.IsMdiContainer = True
         Me.MaximizeBox = False
         Me.Name = "Form1"
-        Me.Text = "DarkSAPI"
+        Me.Text = "DarkSAPI 1.3"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
