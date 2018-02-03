@@ -10,10 +10,10 @@ DarkSAPI created in February 2017 (still year ago), and is very lite speech synt
 
 <b>Updates:</b>
 05 Feb 2017 - First release
-09 Feb 2017 - Many fix (Thanks VF12 for fix)
+09 Feb 2017 - Many fix (Thanks VF12 for fix)<br>
 11 Feb 2017 - ^        (^)
 <b>03 Feb 2018</b> - Add Polish version for 1.1
 
 <b>Download:</b>
-1.1 ENG - http://www.mediafire.com/file/fxzso3367eyljfg/DarkSAPI.exe
+1.1 ENG - http://www.mediafire.com/file/fxzso3367eyljfg/DarkSAPI.exe<br>
 1.1 PL - 
